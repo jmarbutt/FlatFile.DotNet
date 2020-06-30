@@ -8,7 +8,7 @@ namespace FlatFile.WebHooksSample.Controllers
     [Route("[controller]")]
     public class SampleController : ControllerBase
     {
-        [HttpGet]
+        [HttpPost]
         public IActionResult Post([FromBody] FlatFileRequest<MyModel> body)
         {
             return Ok();
