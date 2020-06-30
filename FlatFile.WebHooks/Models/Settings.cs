@@ -1,4 +1,4 @@
-﻿namespace FlatFile.WebHooks.Models
+﻿namespace FlatFileIO.NET.Models
 {
     public class Settings
     {

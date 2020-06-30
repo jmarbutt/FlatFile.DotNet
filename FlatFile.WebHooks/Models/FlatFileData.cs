@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace FlatFile.WebHooks.Models
+namespace FlatFileIO.NET.Models
 {
     public class FlatFileData<T>
     {
